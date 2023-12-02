@@ -11,7 +11,7 @@ With this you can deploy repos that are banned/blacklisted by heroku in differen
 
 ## Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Saanusalvi1/HerokuBannedDeployer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/dreamloves/Heroku)
 
 # Note:
 You need to set the vars manually or use local_config
